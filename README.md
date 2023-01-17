@@ -28,7 +28,7 @@ The **system catalog** is a traditional part of any DBMS. It contains system tab
 
 ## Download
 
-The OntoDB schema can be downloaded at https://github.com/lias-laboratory/ontodbschema_v1
+The OntoDB schema can be downloaded into the _sql_ directory.
 
 ## Software requirements
 
