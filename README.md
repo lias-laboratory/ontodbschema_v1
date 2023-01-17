@@ -58,4 +58,4 @@ $ createdb --template template_ontodb obdb_new_name
 
 ## Software licence agreement
 
-Details the license agreement of PARAD: [LICENCE](LICENCE)
+Details the license agreement of OntoDBSchema V1: [LICENCE](LICENCE)
