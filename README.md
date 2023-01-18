@@ -1,6 +1,6 @@
 # This repository is for OntoDBSchema 1
 
-You are looking at the repository of OntoDBSchema for OntoDB version 1. The repository for OntoDB version 2 is [OntoDBSchema_v2](https://github.com/lias-laboratory/ontodbschema_v2).
+You are looking at the repository of OntoDBSchema for OntoDB version 1. The repository of OntoDBSchema for OntoDB version 2 is [OntoDBSchema_v2](https://github.com/lias-laboratory/ontodbschema_v2).
 
 Please refer to [OntoDB repository](https://github.com/lias-laboratory/ontodb) to have a big picture of OntoDB ontology based database tool.
 
