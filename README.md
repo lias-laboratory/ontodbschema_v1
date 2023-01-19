@@ -62,7 +62,7 @@ Details the license agreement of OntoDBSchema V1: [LICENCE](LICENCE)
 
 ## Historic Contributors
 
-* [Hondjack DEHAINSALA (core developer](https://www.lias-lab.fr/members/hondjackdehainsala/)
+* [Hondjack DEHAINSALA (core developer)](https://www.lias-lab.fr/members/hondjackdehainsala/)
 
 * [Yamine AIT-AMEUR](https://www.lias-lab.fr/members/yamineaitameur/)
 * [Ladjel BELLATRECHE](https://www.lias-lab.fr/members/bellatreche/)
