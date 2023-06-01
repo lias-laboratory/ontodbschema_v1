@@ -56,7 +56,7 @@ $ psql -U postgres example_bdbo < example_bdbo.dmp
 $ createdb --template template_ontodb obdb_new_name
 ```
 
-## Software licence agreement
+## Software license agreement
 
 Details the license agreement of OntoDBSchema V1: [LICENSE](LICENSE)
 
